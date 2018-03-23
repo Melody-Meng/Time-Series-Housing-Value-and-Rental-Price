@@ -16,3 +16,8 @@ includes median transaction price by neighborhood from 2010 to 2017.
 ![thisisa](Medianhouseprice-UpperEastSide-1B.png)
 
 ## Time Series Modeling (ARIMA)
+
+
+## NPV Calculation
+
+![thisisa](BarGraph.png)
