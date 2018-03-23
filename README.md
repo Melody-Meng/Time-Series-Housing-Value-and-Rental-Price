@@ -21,3 +21,4 @@ includes median transaction price by neighborhood from 2010 to 2017.
 ## NPV Calculation
 
 ![thisisa](BarGraph.png)
+
